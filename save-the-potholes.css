@@ -1,0 +1,71 @@
+﻿body
+{
+    padding:5px;
+}
+
+h2 {
+    padding: 0 0 0 50px;
+}
+
+iframe{
+    width:90%;
+    margin:auto;
+}
+
+.headerIMGStyle {
+    /*opacity: 0.5;
+    filter: Alpha(opacity=50); /* IE8 and earlier */
+    width: 100%;
+}
+
+.colorSegment {
+    background-color: #E4731E;
+    border: 20px inset #314F71;
+    color: white;
+    font-weight: 700;
+    margin: 10px 10px 0 10px;
+}
+
+.separatorSegment {
+    background-color: #E4731E;
+    border-top: 10px inset #314F71;
+    border-bottom: 10px inset #314F71;
+    color: white;
+    font-weight: 700;
+}
+
+.fontStyleOrange {
+    font-size: 1.5em;
+    color: #E4731E;
+}
+.fontStyleBlue {
+    font-size: 1.5em;
+    color: #314F71;
+}
+
+
+
+/*meet the team styles*/
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width:75%;
+    margin:auto;
+    padding:10px 0 0 0;
+}
+
+.title {
+    color: grey;
+}
+
+/*mailchimp sign up form styles*/
+
+#mc_embed_signup {
+    background: #fff;
+    clear: left;
+    font: 14px Helvetica,Arial,sans-serif;
+}
+/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+                    We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+
+
